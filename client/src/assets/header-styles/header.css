@@ -1,0 +1,23 @@
+.myNavBar {
+    background-color: #0078D4;
+    /* opacity: 0.9; */
+    padding: 0 0 0 10px !important;
+}
+
+.myNavBar span {
+    color: white !important;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+
+.myNavBar li {
+    color: white !important;
+}
+
+.hamIcon {
+    background: #263238 !important;
+    border-color: #263238 !important;
+    color: white !important;
+}
